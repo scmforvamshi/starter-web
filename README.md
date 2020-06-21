@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Do not
+Do not READ
 
 ## Copyright
 kk
